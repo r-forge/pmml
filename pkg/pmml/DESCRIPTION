@@ -2,7 +2,7 @@ Package: pmml
 Type: Package
 Title: Generate PMML for various models
 Version: 1.2.34
-Date: 2013-01-29
+Date: 2013-02-02
 Authors@R: c(person("Graham", "Williams", 
 	   	    role=c("aut", "cre"),
 	            email="Graham.Williams@togaware.com"),

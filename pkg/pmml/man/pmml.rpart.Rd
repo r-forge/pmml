@@ -135,7 +135,7 @@ p <- pmml(model)
      
 # Save to file.
      
-\notrun{saveXML(p, "iris_rpart.xml")}
+\dontrun{saveXML(p, "iris_rpart.xml")}
 
 }
 \keyword{interface}

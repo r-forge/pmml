@@ -124,8 +124,8 @@ pmml <- function(model,
   # Header
   
   VERSION <- "1.2.34"
-  DATE <- "2013-01-29"
-  REVISION <- "34"
+  DATE <- "2013-02-02"
+  REVISION <- "2"
 
   if (is.null(copyright)) copyright <- .generateCopyright()
   header <- xmlNode("Header",
